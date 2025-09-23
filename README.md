@@ -161,9 +161,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=diiafyra&show_icons=true&hide=issues&theme=tokyonight&cache_seconds=7200" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiafyra&layout=compact&hide=html,css&theme=tokyonight&cache_seconds=7200" height="160"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=diiafyra&theme=tokyonight" height="160"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=diiafyra&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160" alt="Streak Stats"/> </p>
 
 
 
