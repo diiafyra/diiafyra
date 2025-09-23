@@ -45,7 +45,6 @@
   <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"/>
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/>
   <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"/>
   <img title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48"/>
   <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48"/>
   <img title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48"/>
@@ -57,7 +56,7 @@
 |------|------|
 | **C# / .NET 8** | ▰▰▰▰▰▰▰▰▰▱ 90% |
 | **Java / Spring Boot** | ▰▰▰▰▰▰▰▰▱▱ 85% |
-| **JavaScript / TypeScript** | ▰▰▰▰▰▰▰▱▱▱ 75% |
+| **JavaScript** | ▰▰▰▰▰▰▰▱▱▱ 75% |
 | **Dart / Flutter** | ▰▰▰▰▰▰▱▱▱▱ 70% |
 | **C++ / Rust** | ▰▰▱▱▱▱▱▱▱▱ loading |
 
