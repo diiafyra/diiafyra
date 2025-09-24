@@ -1,4 +1,3 @@
-<!-- Modern Pastel Profile – Trang -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=It's%20Me%20Time&fontSize=48&fontAlign=50&fontAlignY=60&animation=fadeIn" alt="Header Banner" />
