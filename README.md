@@ -49,18 +49,6 @@
   <img title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48"/>
 </p>
 
-<div align="center">
-
-| Skill | Level |
-|------|------|
-| **C# / .NET 8** | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| **Java / Spring Boot** | ▰▰▰▰▰▰▰▰▱▱ 85% |
-| **JavaScript** | ▰▰▰▰▰▰▰▱▱▱ 75% |
-| **Dart / Flutter** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-| **C++ / Rust** | ▰▰▱▱▱▱▱▱▱▱ loading |
-
-</div>
-
 ### Backend & APIs
 <p align="center">
   <img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48"/>
@@ -69,15 +57,6 @@
   <img title="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48"/>
 </p>
 
-<div align="center">
-
-| Skill | Level |
-|------|------|
-| **RESTful APIs** | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| **Node.js** | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| **Nginx** | ▰▰▰▰▰▱▱▱▱▱ 50% |
-
-</div>
 
 ### Frontend & UI/UX
 <p align="center">
@@ -88,15 +67,7 @@
   <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48"/>
 </p>
 
-<div align="center">
 
-| Skill | Level |
-|------|------|
-| **React** | ▰▰▰▰▰▰▰▰▱▱ 85% |
-| **HTML / CSS / Bootstrap** | ▰▰▰▰▰▰▰▰▱▱ 85% |
-| **Figma (UI/UX)** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-
-</div>
 
 ### Mobile & Android
 <p align="center">
@@ -105,15 +76,7 @@
   <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48"/>
 </p>
 
-<div align="center">
 
-| Skill | Level |
-|------|------|
-| **Flutter** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-| **Android (Java)** | ▰▰▰▰▰▱▱▱▱▱ 60% |
-| **Firebase Auth / FCM** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-
-</div>
 
 ### Databases
 <p align="center">
@@ -124,17 +87,7 @@
   <img title="Firebase Firestore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48"/>
 </p>
 
-<div align="center">
 
-| Skill | Level |
-|------|------|
-| **SQL Server** | ▰▰▰▰▰▰▰▰▱▱ 85% |
-| **PostgreSQL** | ▰▰▰▰▰▰▰▱▱▱ 75% |
-| **SQLite** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-| **MongoDB** | ▰▰▰▰▰▱▱▱▱▱ 60% |
-| **Firebase Firestore** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-
-</div>
 
 ### DevOps & Monitoring
 <p align="center">
@@ -144,14 +97,6 @@
   <img title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="48"/>
 </p>
 
-<div align="center">
-
-| Skill | Level |
-|------|------|
-| **Docker** | ▰▰▰▰▰▰▰▰▱▱ 80% |
-| **Prometheus / Grafana** | ▰▰▰▰▰▱▱▱▱▱ 60% |
-
-</div>
 
 
 ##  Visual Stats
