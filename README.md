@@ -39,22 +39,19 @@
 
 ##  Skill Matrix  
 
-### Languages & Runtimes
+### Languages
 <p align="center">
   <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"/>
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/>
   <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
   <img title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48"/>
   <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48"/>
-  <img title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48"/>
 </p>
 
 ### Backend & APIs
 <p align="center">
   <img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48"/>
   <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48"/>
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/>
-  <img title="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48"/>
 </p>
 
 
@@ -89,12 +86,10 @@
 
 
 
-### DevOps & Monitoring
+### DevOps
 <p align="center">
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
   <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="48"/>
-  <img title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="48"/>
-  <img title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="48"/>
 </p>
 
 
