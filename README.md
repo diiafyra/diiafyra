@@ -111,12 +111,12 @@
 ##  Focus & Interests
 <div align="center">
 
-| Android native development | Clean architecture · Microservices · CI/CD | English | Korean |
+| Android native development | Clean architecture · Microservices · CI/CD | English |
 
 </div>
 
 
 ##  Fun Fact
-<p align="center"><i>“Changing every day — demure is my word.”</i></p>
+<p align="center"><i>“demure”</i></p>
 
 </div>
